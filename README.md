@@ -26,6 +26,12 @@ programming and engineering.
 ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█████████████
 ```
 
+### Vaccination data dashboard
+
+https://github.com/eliaspoylio/vaccinations
+
+Dashboard for mocked vaccination data. VueJS frontend and PostgreSQL & FastAPI backend.
+
 ### Helsinkirecom 
 
 https://github.com/eliaspoylio/helsinkirecom
